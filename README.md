@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shanesirohi](https://github.com/shanesirohi)
 
-- 📝 I regularly write articles on [https://nexgenlabs.netlify.app](https://nexgenlabs.netlify.app)
+- 📝 I regularly write articles on [https://nexxgenai.web.app/](https://nexxgenai.web.app/)
 
 - 💬 Ask me about **HCJ, MongoDB, Backend**
 
