@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sushen</h1>
-<h3 align="center">I am a passionate entrepreneur and web developer</h3>
+<h1 align="center">Hi 👋, I'm Shane</h1>
+<h3 align="center">I eh .. Forgot</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanesirohi&label=Profile%20views&color=0e75b6&style=flat" alt="shanesirohi" /> </p>
 
